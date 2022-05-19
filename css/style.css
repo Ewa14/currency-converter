@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 800px;
+    margin: auto;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    padding: 30px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/151/429/original/global-currency-exchange-icon-with-abstract-high-speed-network-on-blue-background-vector.jpg);
+    background-position: bottom;
+}
