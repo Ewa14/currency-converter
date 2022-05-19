@@ -12,6 +12,6 @@ The second form lets you convert PLN to USD or CHF. First, select the target cur
 - CSS
 - BEM naming convention
 - JavaScript
-- ES6 features (e.g. arrow functions, "const" keywords)
+- ES6 features (e.g. arrow functions, "const" keywords, template literals)
 ## Preview
 ![Currency converter preview](images/currency-converter-preview.gif)
