@@ -1,5 +1,5 @@
 # Currency converter
-# Demo
+## Demo
 https://ewa14.github.io/currency-converter/
 ## Description
 A simple currency converter created using two forms. 
